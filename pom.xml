@@ -27,7 +27,7 @@
     <repository>
       <id>mc-releases</id>
       <name>mc-releases</name>
-      <url>https://github.com/harshita29/spring-example/edit/master/pom.xml</url>
+      <url>http://ec2-18-216-65-233.us-east-2.compute.amazonaws.com:8081/nexus/content/repositories/mc-releases/</url>
     </repository>
     <snapshotRepository>
       <id>mc-snapshots</id>
