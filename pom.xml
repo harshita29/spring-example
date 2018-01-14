@@ -27,12 +27,12 @@
     <repository>
       <id>mc-releases</id>
       <name>mc-releases</name>
-      <url>http://ec2-18-216-229-90.us-east-2.compute.amazonaws.com:8081/abc/content/repositories/mc-releases/</url>
+      <url>https://github.com/harshita29/spring-example/edit/master/pom.xml</url>
     </repository>
     <snapshotRepository>
       <id>mc-snapshots</id>
       <name>mc-snapshots</name>
-      <url>http://ec2-18-216-229-90.us-east-2.compute.amazonaws.com:8081/abc/content/repositories/mc-snapshots/</url>
+      <url>http://ec2-18-216-65-233.us-east-2.compute.amazonaws.com:8081/nexus/content/repositories/mc-snapshots/</url>
     </snapshotRepository>
   </distributionManagement>
 </project>
